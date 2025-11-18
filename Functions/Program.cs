@@ -16,12 +16,7 @@ internal class Program //de function heet program //en het is de code die we ero
         Console.WriteLine("Dit is nu de start van mij programma");
 
     }
-
-        
-
-    
-
-}
+    }
 
 
 

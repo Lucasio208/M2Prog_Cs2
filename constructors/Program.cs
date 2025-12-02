@@ -11,7 +11,8 @@ class Program
 
     private void Run()
     {
-        Quizvraag quizvraag = new Quizvraag("hier komt de vraag", "hier komt het antwoord");
+        Quizvraag quizvraag = new Quizvraag("welke fruit is rood", "een appel");
         quiz quiz = new Quiz(10);
+        quiz .VoegVraagToe(0, quizVraag);   
     }
 }

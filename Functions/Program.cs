@@ -1,4 +1,4 @@
-﻿namespace Functions;
+﻿﻿namespace Functions;
 
 internal class Program //de function heet program //en het is de code die we eronder hebben getypt
 {                      //de return type is void omdat we niks teruggeven
@@ -79,5 +79,3 @@ internal class Program //de function heet program //en het is de code die we ero
 
     }
 }
-
-

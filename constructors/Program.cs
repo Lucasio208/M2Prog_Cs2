@@ -12,5 +12,6 @@ class Program
     private void Run()
     {
         Quizvraag quizvraag = new Quizvraag("hier komt de vraag", "hier komt het antwoord");
+        quiz quiz = new Quiz(10);
     }
 }
